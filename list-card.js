@@ -1,4 +1,4 @@
-
+console.log(`%clist-card\n%cVersion: ${'0.0.1'}`, 'color: rebeccapurple; font-weight: bold;', '');
 
 class ListCard extends HTMLElement {
 
